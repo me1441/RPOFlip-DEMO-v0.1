@@ -1,4 +1,4 @@
-# RPOFlip Desktop App
+# RPOFlip Desktop App Demo
 <img width="1254" height="1254" alt="06ed3575-bd7a-4219-b8ac-f84ea0c06615" src="https://github.com/user-attachments/assets/ede65f73-63f5-48eb-a043-c7e8ff6fb234" />
 
 PDF-флипбук просмотрщик с 3D-эффектом перелистывания страниц.
