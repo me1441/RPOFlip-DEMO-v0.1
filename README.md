@@ -50,5 +50,3 @@ python build.py
 - `←` / `→` — навигация
 - `Esc` — закрыть просмотрщик
 - Клик по странице — перелистнуть
-<img width="1254" height="1254" alt="06ed3575-bd7a-4219-b8ac-f84ea0c06615" src="https://github.com/user-attachments/assets/3798ca5a-2bb1-4046-8723-98dd5dd9df85" />
-<img width="1254" height="1254" alt="06ed3575-bd7a-4219-b8ac-f84ea0c06615" src="https://github.com/user-attachments/assets/e3a4ca59-1d1a-46b6-9a3e-14906a55e7dc" />
